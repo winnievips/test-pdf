@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "test-pdf",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
